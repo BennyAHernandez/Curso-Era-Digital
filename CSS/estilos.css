@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(232, 247, 247);
+    color: rgb(44, 43, 43);
+}
+h1{
+    color: rgb(34, 141, 146);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color: rgb(104, 116, 128);
+}
+p{
+    color: rgb(104, 116, 128);
+}
+#boton1{
+    color: white;
+    font-size: small;
+    background-color:rgb(63, 60, 60);
+    border: 20;
+}
+
+#boton2{
+    color: white;
+    font-size: small;
+    background-color:rgb(63, 60, 60);
+    border-radius: 20;
+} 
